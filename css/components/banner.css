@@ -1,0 +1,33 @@
+.banner {
+  background-image:url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  color:white;
+
+}
+
+.container h1{
+  text-shadow:2px 2px #ff0000;
+}
+
+.home-button {
+  background-color: green;
+  padding:15px;
+  color:white;
+  border-radius: 5px;
+  display:inline-block;
+  margin-top: 10px;
+}
+
+.home-button:hover {
+  background-color: blue;
+  padding:15px;
+  color:red;
+}
+
